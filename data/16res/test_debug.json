@@ -1,0 +1,193 @@
+[
+    {
+        "entities": [
+            {
+                "type": "target",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "opinion",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "sentiments": [
+            {
+                "type": "POSITIVE",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "pos": [
+            [
+                "Serves",
+                "VBZ"
+            ],
+            [
+                "really",
+                "RB"
+            ],
+            [
+                "good",
+                "JJ"
+            ],
+            [
+                "sushi",
+                "NN"
+            ],
+            [
+                ".",
+                "."
+            ]
+        ],
+        "orig_id": "1004293:0",
+        "tokens": [
+            "Serves",
+            "really",
+            "good",
+            "sushi",
+            "."
+        ],
+        "dependency": [
+            [
+                "ROOT",
+                0,
+                1
+            ],
+            [
+                "advmod",
+                3,
+                2
+            ],
+            [
+                "amod",
+                4,
+                3
+            ],
+            [
+                "obj",
+                1,
+                4
+            ],
+            [
+                "punct",
+                1,
+                5
+            ]
+        ]
+    },
+    {
+        "entities": [
+            {
+                "type": "target",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "opinion",
+                "start": 0,
+                "end": 3
+            },
+            {
+                "type": "target",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "opinion",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "sentiments": [
+            {
+                "type": "NEUTRAL",
+                "head": 0,
+                "tail": 1
+            },
+            {
+                "type": "NEUTRAL",
+                "head": 2,
+                "tail": 3
+            }
+        ],
+        "pos": [
+            [
+                "Not",
+                "RB"
+            ],
+            [
+                "the",
+                "DT"
+            ],
+            [
+                "biggest",
+                "JJS"
+            ],
+            [
+                "portions",
+                "NNS"
+            ],
+            [
+                "but",
+                "CC"
+            ],
+            [
+                "adequate",
+                "JJ"
+            ],
+            [
+                ".",
+                "."
+            ]
+        ],
+        "orig_id": "1004293:1",
+        "tokens": [
+            "Not",
+            "the",
+            "biggest",
+            "portions",
+            "but",
+            "adequate",
+            "."
+        ],
+        "dependency": [
+            [
+                "ROOT",
+                0,
+                4
+            ],
+            [
+                "advmod",
+                4,
+                1
+            ],
+            [
+                "det",
+                4,
+                2
+            ],
+            [
+                "amod",
+                4,
+                3
+            ],
+            [
+                "cc",
+                6,
+                5
+            ],
+            [
+                "conj",
+                4,
+                6
+            ],
+            [
+                "punct",
+                4,
+                7
+            ]
+        ]
+    }
+]

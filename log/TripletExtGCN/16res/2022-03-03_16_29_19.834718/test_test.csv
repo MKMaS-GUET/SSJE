@@ -1,0 +1,4 @@
+ner_prec_micro;ner_rec_micro;ner_f1_micro;ner_prec_macro;ner_rec_macro;ner_f1_macro;rel_prec_micro;rel_rec_micro;rel_f1_micro;rel_prec_macro;rel_rec_macro;rel_f1_macro;rel_nec_prec_micro;rel_nec_rec_micro;rel_nec_f1_micro;rel_nec_prec_macro;rel_nec_rec_macro;rel_nec_f1_macro;epoch;iteration;global_iteration
+0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;1;0;2
+0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;2;0;4
+0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;3;0;6

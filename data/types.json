@@ -1,0 +1,3 @@
+{"entities": {"target": {"short": "t", "verbose": "target"}, "opinion": {"short": "o", "verbose": "opinion"}},
+"sentiment": {"NEUTRAL": {"short": "NEU","verbose": "NEUTRAL","symmetric": false},"POSITIVE": {"short": "POS","verbose": "POSITIVE","symmetric": false
+},"NEGATIVE": {"short": "NEG", "verbose": "NEGATIVE","symmetric": false},"INVALID": {"short": "INV", "verbose": "INVALID","symmetric": false}}}
